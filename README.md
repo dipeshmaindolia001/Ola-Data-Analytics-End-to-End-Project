@@ -130,8 +130,8 @@ ola-data-analytics-project/
 **Dipesh Maindolia**
 B.S. Data Science, IIT Madras · B.Tech IT, GBPUAT Pantnagar
 
-- 🔗 LinkedIn: [Add your LinkedIn URL here]
-- 🎥 YouTube (Burnout Batch): [Add your Burnout Batch channel URL here]
+- 🔗 LinkedIn: [Dipesh Maindolia](https://www.linkedin.com/in/dipeshmaindolia/)
+- 🎥 YouTube (Burnout Batch): [Burnout Batch](https://www.youtube.com/@burnoutbatch)
 - 🐦 X / Twitter: [@DipeshMain14648](https://x.com/DipeshMain14648)
 
 ---
